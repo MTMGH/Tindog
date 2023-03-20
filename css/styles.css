@@ -1,0 +1,159 @@
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    text-align: center;
+    color: #fff;
+   
+}
+.soc{
+    margin: 20px 10px;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-head{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h1 {  
+    font-family: 'Montserrat', sans-serif;
+   
+    line-height: 2;  
+    font-weight: 900;
+    
+}
+.presslogo{
+    width: 15%;
+    padding: 20px 20px 50px;
+}
+.c2{
+    font-family: 'Montserrat', sans-serif;
+}
+.testimonials-img{
+border-radius: 100%;
+width: 10%;
+margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+  
+}
+#but1{
+background-color: #ef8172;
+outline-style: none;
+border: none;
+padding: none;
+}
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    padding-bottom: 3%; 
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+#c1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.feature-box{
+    text-align: center;
+    padding: 5% 4%;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+p{
+    color: gray;
+}
+#features{
+    padding: 7% 10%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+#h11{
+    font-size: 3.5rem;  
+}
+#title{
+    background-color: #ff4c68;
+    color: white;
+    padding: 5% 7% 10%;
+}
+.Navbar-brand{
+    color: white;
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.row{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+#clss{
+    padding-bottom: 4rem;
+}
+
+#cls{ padding:5% 15%;}
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+.nav-item{
+    padding: 0 18px;
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+#dwbtn{
+    margin: 5% 3% 5% 0;
+}
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    
+}
+#pricing{
+   
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 900;
+    line-height: 2;
+   padding: 100px;
+   text-align: center;
+}
+.pricing-col{
+
+padding: 3% 2%;
+}
